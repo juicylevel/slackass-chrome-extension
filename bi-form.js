@@ -18,5 +18,5 @@ setTimeout(
     () => {
         submitButton.click();
     },
-    1500
+    3500
 );
